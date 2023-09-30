@@ -24,6 +24,7 @@ In This App i used:
 - Clean architecture 
 - Api integration with alphavantage Api
 - Retrofit for dealing with Api and make http requests
+- CSV Parsing
 
 
 ## Contributing
