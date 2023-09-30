@@ -10,6 +10,7 @@ The Stock Market App is a powerful tool for staying informed about the latest fi
 ## Features
 
 - Browse and search for companies by name, symbol, and country.
+- Company Search: Easily find specific companies by using the powerful search feature. Just type the company name or symbol, and voila - all the information you need at your fingertips!
 - Dive into detailed company information, including descriptions and market graphs.
 - Stay updated with real-time market data for confident investing.
 - User-friendly Jetpack Compose UI for seamless navigation.
